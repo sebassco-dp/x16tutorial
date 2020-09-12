@@ -1,0 +1,7 @@
+1 REM VARIABLES
+10 X% = 100
+20 X = 100.5
+25 PRINT "X = ";X,"X% = ";X%
+30 X$ = "THE SUM OF X% AND X IS: "
+40 PRINT X$;X%+X
+READY.
